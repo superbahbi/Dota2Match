@@ -1,0 +1,17 @@
+.radvic {
+	color: #5f9725;
+	text-align: center;
+}
+.dirvic {
+	color: #c22714;
+	text-align: center;
+}
+
+.radiant thead th,
+.radiant tfoot th {
+	background-color: #dff0d8;
+}
+.dire thead th,
+.dire tfoot th {
+	background-color: #f2dede;
+}
